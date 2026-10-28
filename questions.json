@@ -1,0 +1,265 @@
+{
+  "heading": "Sci_Homework_G9M8NZ",
+  "topics": [
+   {
+  "heading": "Assessment",
+  "questions": [
+    {
+      "questionNo": 1,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Why do hot air balloons rise in the atmosphere?<br><img width='40%' src='./assests/images/13.png'>",
+      "options": [
+        { "text": "Expansion of gases increases density" },
+        { "text": "Warm air becomes less dense than surrounding cool air" },
+        { "text": "Air molecules contract on heating" },
+        { "text": "Heated air particles stop moving" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 2,
+      "section": "mcq",
+      "marks": 1,
+      "question": "A student measures the time taken for a tablet to dissolve in water at 20℃.<br><img width='40%' src='./assests/images/14.png'><br>Which set of repeated results shows the greatest reliability?",
+      "options": [
+        { "text": "12 s, 15 s, 20 s" },
+        { "text": "15 s, 30 s, 45 s" },
+        { "text": "16 s, 17 s, 16 s" },
+        { "text": "20 s, 19 s, 21 s" }
+      ],
+      "answer": 2
+    },
+    {
+      "questionNo": 3,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Which technique is used to separate the plasma from the cells in a blood sample?<br><img width='40%' src='./assests/images/15.png'>",
+      "options": [
+        { "text": "Distillation" },
+        { "text": "Centrifugation" },
+        { "text": "Fractional distillation" },
+        { "text": "Chromatography" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 4,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Kwashiorkor is mainly caused by a deficiency of which nutrient?<br><img width='40%' src='./assests/images/16.png'>",
+      "options": [
+        { "text": "Carbohydrate" },
+        { "text": "Lipid" },
+        { "text": "Protein" },
+        { "text": "Fibre" }
+      ],
+      "answer": 2
+    },
+    {
+      "questionNo": 5,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Particles in ______ are moving about very quickly and are not bound together, allowing the substance to completely fill any container it is stored in.<br><i>Hint: solid, liquid, gas</i>",
+      "input": [""],
+      "answer": "gas"
+    },
+    {
+      "questionNo": 6,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Evaporation is used to separate a ______ solute from a ______ solvent.<br><i>Hint: volatile, non-volatile</i><br><img width='40%' src='./assests/images/17.png'>",
+      "input": ["", ""],
+      "answer": [
+        "non-volatile",
+        "volatile"
+      ]
+    },
+    {
+      "questionNo": 7,
+      "section": "mcq",
+      "marks": 1,
+      "question": "During photosynthesis, plants change ______ energy into ______ energy.<br><img width='40%' src='./assests/images/18.png'>",
+      "input": ["", ""],
+      "answer": [
+        "light",
+        "chemical"
+      ]
+    },
+    {
+      "questionNo": 8,
+      "section": "mcq",
+      "marks": 1,
+      "question": "The energy possessed by a moving object is called ______ energy.<br><img width='40%' src='./assests/images/19.png'>",
+      "input": [""],
+      "answer": "kinetic"
+    },
+    {
+      "questionNo": 9,
+      "section": "mcq",
+      "marks": 1,
+      "question": "During swallowing, the ______ covers the opening of the windpipe (trachea) so that food passes into the ______ instead.<br><img width='40%' src='./assests/images/20.png'>",
+      "input": ["", ""],
+      "answer": [
+        "epiglottis",
+        "oesophagus / food pipe"
+      ]
+    },
+    {
+      "questionNo": 10,
+      "section": "mcq",
+      "marks": 1,
+      "question": "______ carry blood away from the heart, while ______ carry blood towards the heart.",
+      "input": ["", ""],
+      "answer": [
+        "Arteries",
+        "veins"
+      ]
+    },
+    {
+      "questionNo": 11,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Earth’s axis is tilted at ______°.",
+      "input": [""],
+      "answer": "23.5"
+    },
+    {
+      "questionNo": 12,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Can a solution be heterogenous?",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 13,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Green plants always take in carbon dioxide and release oxygen.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 14,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Both light and sound are forms of wave energy.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 1,
+      "section": "short",
+      "marks": 3,
+      "question": "How does temperature affect the state of matter?",
+      "text_area": "",
+      "answer": ["The state of matter depends on how its particles are arranged and the energy they have.<br>When matter is heated, its particles gain energy and move faster. Once they have enough energy to break free from their fixed positions, the substance changes its state.<br>When matter is cooled, the particles lose energy and move more slowly. With very little energy, their movement becomes restricted, and they settle into fixed positions, causing a change of state."]
+    },
+    {
+      "questionNo": 2,
+      "section": "short",
+      "marks": 3,
+      "question": "Compare concentrated and dilute solutions, using an example to explain each.",
+      "text_area": "",
+      "answer": ["<b>Concentrated solution:</b><br>A solution that has more solute in the solvent compared to another solution is known as a concentrated solution.<br><b>Dilute solution:</b><br>A solution that has less solute in the solvent compared to another solution is known as a dilute solution.<br><b>Example:</b> A sugar solution with 5g sugar in 100mL water is dilute compared to 20g sugar in 100mL water, which is concentrated."]
+    },
+    {
+      "questionNo": 3,
+      "section": "short",
+      "marks": 3,
+      "question": "Compare living, once living, and non-living things.<br>Include at least two examples for each group in your answer.",
+      "text_area": "",
+      "answer": ["<b>Living things</b> are organisms that carry out all life processes described by MRS C GREN. This includes movement, respiration, sensitivity, cells, growth, reproduction, excretion, and nutrition.<br>Examples: Humans, plants etc.<br><b>Once living things</b> are things that were alive in the past and carried out MRS C GREN when they were alive, but no longer show these life processes.<br>Examples: Wood (log), paper (from trees) etc.<br><b>Non-living things</b> are things that have never been alive and do not carry out any of the MRS C GREN life processes.<br>Examples: Stone, car etc."]
+    },
+    {
+      "questionNo": 4,
+      "section": "short",
+      "marks": 3,
+      "question": "Explain the process of photosynthesis in plants.<br><img width='40%' src='./assests/images/21.png'>",
+      "text_area": "",
+      "answer": ["Photosynthesis is the process by which green plants make their own food using sunlight. It takes place mainly in the leaves, inside structures called chloroplasts that contain chlorophyll, a green pigment.<br>When sunlight falls on the leaves of a plant, the chloroplasts present inside the mesophyll cells capture light energy with the help of chlorophyll.<br>The plant then uses this captured energy to combine water from the roots and carbon dioxide (CO<sub>2</sub>) from the air to produce glucose (a carbohydrate), which is a type of sugar. During this process, oxygen is also released into the air.<br>Water + Carbon dioxide → Glucose + Oxygen"]
+    },
+    {
+      "questionNo": 5,
+      "section": "short",
+      "marks": 3,
+      "question": "During an experiment, the heat energy transferred to the water was 3000 J. If the mass of the food sample was 15 g, calculate the energy released per gram of food.<br><b>Given:</b><br>Energy = ______ J<br>Mass of food = ______ g<br><b>Formula:</b><br>Energy per gram = Total energy/ mass<br><b>Calculation:</b><br>Energy per gram = ______ / ______<br><b>Final answer:</b><br>The energy released per gram of food is ______ J/g.",
+      "input": ["", "", "", "", ""],
+      "answer": [
+        "3000",
+        "15",
+        "3000",
+        "15",
+        "200"
+      ]
+    },
+    {
+      "questionNo": 6,
+      "section": "short",
+      "marks": 3,
+      "question": "Explain the difference between mechanical digestion and chemical digestion.<br>Include an example of each type of digestion in your answer.",
+      "text_area": "",
+      "answer": ["<b>Mechanical digestion</b> is the physical breakdown of food into smaller pieces without changing its chemical composition.<br>Example: Chewing (mastication) in the mouth or the churning action of the stomach.<br><b>Chemical digestion</b> is the breakdown of food into simpler substances by digestive enzymes and digestive juices, changing its chemical composition.<br>Example: Saliva in the mouth begins the chemical digestion of food."]
+    },
+    {
+      "questionNo": 7,
+      "section": "short",
+      "marks": 3,
+      "question": "The diagram below shows the phases of the Moon.<br><img width='40%' src='./assests/images/22.png'><br>Identify and label each phase correctly.<br>1. ______<br>2. ______<br>3. ______<br>4. ______<br>5. ______<br>6. ______<br>7. ______<br>8. ______<br><i>Hint: Waxing Gibbous, Full Moon, Waning Gibbous, New Moon, Waxing Crescent, First Quarter, Waning Crescent, Third (Last) Quarter</i>",
+      "input": ["", "", "", "", "", "", "", ""],
+      "answer": ["New Moon", "Waxing Crescent", "First Quarter", "Waxing Gibbous", "Full Moon", "Waning Gibbous", "Third (Last) Quarter", "Waning Crescent"]
+    },
+    {
+      "questionNo": 8,
+      "section": "short",
+      "marks": 3,
+      "question": "Use the information you have learned to complete the flow chart below.<br><img width='40%' src='./assests/images/23.png'><br>A: ______<br>B: ______<br>C: ______<br>D: ______<br>E: ______<br><i>Hint: Archaea, Eukarya, Eubacteria, Animalia, Fungi</i>",
+      "input": ["", "", "", "", ""],
+      "answer": ["Eubacteria", "Archaea", "Eukarya", "Fungi", "Animalia"]
+    },
+    {
+      "questionNo": 1,
+      "marks": 5,
+      "section": "long",
+      "question": "MRS C GREN describes the characteristics of living things.<br>Explain the life processes included in MRS C GREN and describe why these processes are important for living organisms.",
+      "text_area": "",
+      "answer": ["MRS C GREN is a mnemonic used to remember the life processes of living things.<br><b>M: Movement</b><br>Movement means the ability of a living thing to change position or move parts of its body. Different living things move in different ways.<br><b>R: Respiration</b><br>This is the process where food is broken down to release energy. This energy is needed for growth, repair, and all life activities.<br><b>S: Sensitivity</b><br>Living things respond to changes in their environment such as light, sound, or temperature, helping them survive.<br><b>C: Cells</b><br>All living things are made of cells. Cells are the basic unit of life and carry out all essential functions needed for survival.<br><b>G: Growth</b><br>Living things grow by increasing in size and producing more cells. Growth is necessary for development and maturity.<br><b>R: Reproduction</b><br>Living things produce offspring to continue their species and prevent extinction.<br><b>E: Excretion</b><br>Living things remove waste products from their body to prevent harmful substances from building up.<br><b>N: Nutrition</b><br>Living things obtain food to get energy and nutrients needed for survival, growth, and repair."]
+    },
+    {
+      "questionNo": 2,
+      "marks": 5,
+      "section": "long",
+      "question": "What is energy?<br>Explain any five forms of energy with examples from daily life.",
+      "text_area": "",
+      "answer": ["<b>Energy:</b><br>Energy is the capacity or ability to do work. It refers to the ability to move an object (of a given mass) by applying a force or to cause any kind of change.<br>It is not found in just one form; it exists in many different forms.<br><br><b>Forms of Energy:</b><br>1. <b>Kinetic energy:</b><br>Kinetic energy is the energy possessed by an object due to its motion.<br>Example: A moving bicycle or a rolling ball.<br>2. <b>Potential energy:</b><br>Potential energy is the energy stored in an object due to its position or condition.<br>Example: A book on a shelf or water stored in a dam.<br>3. <b>Light energy:</b><br>The energy produced by luminous sources, which helps us to see and supports us in our everyday life, is called “Light Energy”.<br>Example: Light from a bulb or the Sun.<br>4. <b>Sound energy:</b><br>The energy produced due to the vibration of objects, which we can hear and which helps us in everyday applications like SONAR and ultrasound, is called “Sound Energy”.<br>Example: Music from a speaker, ringing bell, or talking voice.<br>5. <b>Electrical energy:</b><br>Electrical energy is the energy carried by moving electrically charged particles and is associated with electric current.<br>Example: Running a fan, TV, or charging a phone."]
+    },
+    {
+      "questionNo": 3,
+      "marks": 5,
+      "section": "long",
+      "question": "What are blood vessels?<br>Describe the three main types of blood vessels and explain the role of each type in the circulatory system.",
+      "text_area": "",
+      "answer": ["<b>Blood Vessels:</b><br>Blood vessels are tubes that carry blood between the heart, lungs, and different parts of the body.<br><b>Arteries:</b> Arteries carry blood away from the heart. They have thick, muscular and elastic walls because blood flows through them at high pressure.<br><b>Veins:</b> Veins carry blood towards the heart. They have thinner walls and valves that help prevent the backflow of blood.<br><b>Capillaries:</b> Capillaries are the smallest blood vessels and have walls only one cell thick. They allow oxygen, nutrients, carbon dioxide and waste products to diffuse between the blood and nearby cells."]
+    },
+    {
+      "questionNo": 4,
+      "marks": 5,
+      "section": "long",
+      "question": "Explain how a solar eclipse and a lunar eclipse occur.<br><i>Note: Draw neat and well-labelled diagrams of each eclipse in your notebook to support your answer.</i>",
+      "text_area": "",
+      "answer": ["<b>Solar eclipse:</b> A solar eclipse occurs when the Moon moves between the Sun and Earth during the New Moon phase. When the Sun, Moon, and Earth are aligned in a straight line, the Moon blocks some or all of the Sun’s light from reaching Earth.<br><b>Lunar eclipse:</b> A lunar eclipse occurs when Earth moves between the Sun and the Moon during the Full Moon phase. When the Sun, Earth, and Moon are aligned in a straight line, Earth blocks some or all of the Sun’s light from reaching the Moon."]
+    }
+  ]
+}
+  ]
+}
